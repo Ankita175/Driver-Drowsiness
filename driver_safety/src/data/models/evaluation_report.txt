@@ -1,0 +1,9 @@
+MULTI-MODAL DRIVER SAFETY — EVALUATION REPORT
+============================================================
+
+Model                            Accuracy  Precision     Recall         F1
+------------------------------------------------------------
+CNN                                0.5000     0.5000     1.0000     0.6667
+Logistic Regression (CNN)          1.0000     1.0000     1.0000     1.0000
+Audio LR (MFCC)                    1.0000     1.0000     1.0000     1.0000
+Multi-Modal Fusion                 0.5000     0.5000     1.0000     0.6667
